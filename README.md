@@ -1,26 +1,23 @@
-# sdf img! [https://img.shields.io/badge/license-MIT-green]
+# ReadMe Generator img! [https://img.shields.io/badge/license-MIT-green]
 
   ## *Description*  
-asdf
-
-## *Table of Contents 
-  -(Description) [#description]
+A way to use the command line to produce a quality readme file for open source projects.
 
 ## *Installation* 
-asdf
+npm i
 
 ## *Usage*
-asdf
+To create a professional ReadMe file for open source projects
 
 ## *Contribution* 
-asdf
+Contact me for contributions.
 
 ## *Tests* 
-asdf
+None. 
 
 ## *Contact me with questions* 
-GitHub: asdf
-LinkedIn: asdf
+GitHub: DanteJames94
+LinkedIn: DanteJames94
 
 
 This readme is MIT Licensed.
